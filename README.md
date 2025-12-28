@@ -1,6 +1,4 @@
 # StreamApi
+Interview Questions
 
-# Interview Questions
-stringQ
-HashMapQ
 
